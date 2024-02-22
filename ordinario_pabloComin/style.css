@@ -1,0 +1,44 @@
+body {
+    background-color: orange;
+}
+
+div.primero {
+    text-align: left;
+    width: 20;
+    height: 20;
+}
+
+nav.enlaces {
+    text-align: center;
+    background-color: rgb(133, 233, 233);
+}
+
+ div.dos {
+    background-color: rgb(133, 233, 233);
+ }
+
+ p.colorazul {
+    background-color: blue;
+    color: blue;
+ }
+
+ p.colorrojo {
+    color: red;
+    background-color: red;
+ }
+
+ span {
+    background-color: yellow;
+ }
+
+ footer {
+    text-align: center;
+ }
+
+ p.rojo {
+    color: red;
+ }
+
+ p.azul {
+    color: blue;
+ }
